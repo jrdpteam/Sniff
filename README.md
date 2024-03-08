@@ -1,11 +1,7 @@
 # Sniff
-JRDP Sniffer,tiny Sniffer made in python3,available built-in in JRDP_WiFi-toolkit.by JRDP Team.
+JRDP Sniffer,tiny sniffer made in python3,available built-in in JRDP_WiFi-toolkit. by JRDP Team.
 
 First,open Terminal and type these commands:
-
-    sudo apt install python3
-
-    sudo apt install python3-pip
 
     sudo pip3 install scapy ipaddress socket colorama keyboard subprocess json
 
