@@ -9,7 +9,7 @@ Then.open Terminal on Your desktop,and then type this command:
 
     git clone https://github.com/JRDPCN/Sniff
 
-Then go to *Sniff* directory on desktop,open Terminal and type this command:
+Then go to *Sniff* directory on Your desktop,open Terminal and type this command:
 
     sudo python3 Sniff.py
 
