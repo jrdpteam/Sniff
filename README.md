@@ -20,3 +20,5 @@ You should see this:
 Select interface You want to use and you should see this menu:
 
 ![Screenshot_2024-01-14_16-24-57](https://github.com/JRDPCN/Sniff/assets/136267216/eb168f1f-8d4c-4dcf-bc6c-073a7a643c11)
+
+Select the option You want.
