@@ -1,5 +1,5 @@
 # Sniff
-JRDP Sniffer,tiny sniffer made in python3,available built-in in JRDP_WiFi-toolkit. by JRDP Team.
+Sniff,tiny sniffing tool made in python3,available built-in in JRDP_WiFi-toolkit.by JRDP Team.
 
 First,open Terminal and type these commands:
 
